@@ -70,6 +70,7 @@ export default {
     },
     props: ['platformId','catalogId',  'catalogName'],
     created() {
+      console.log(this.catalogId)
         this.initData();
     },
     components: {

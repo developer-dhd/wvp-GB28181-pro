@@ -88,7 +88,7 @@
 <!--	</logger>-->
 
 	<!--记录druid-sql的记录-->
-	<logger name="druid.sql.Statement" level="debug" additivity="true">
+	<logger name="druid.sql.Statement" level="info" additivity="true">
 		<!--AppenderRef ref="Console"/-->
 		<!--		<appender-ref ref="RollingFile"/>-->
 		<appender-ref ref="RollingFileError"/>
