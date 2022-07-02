@@ -10,7 +10,7 @@
 
 + zlmediakit使用参考：[ZLMediaKit wiki](https://github.com/ZLMediaKit/ZLMediaKit/wiki)
 
-如果你不像编译，请下载release下面编译好的jar包，部署教程地址：[点击查看](https://decoderx.cc/2022/07/01/docker%E5%AE%89%E8%A3%85%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0wvp-pro%E6%95%99%E7%A8%8B/)
+如果你不想编译，请下载release下面编译好的jar包，部署教程地址：[点击查看](https://decoderx.cc/2022/07/01/docker%E5%AE%89%E8%A3%85%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0wvp-pro%E6%95%99%E7%A8%8B/)
 
 ## 特别说明
 
